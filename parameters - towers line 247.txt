@@ -1,0 +1,10 @@
+celltowres example:
+15 towres
+and then
+40 towers
+
+truss parameter sweep example:
+10 heights
+5 cross sections
+
+compare files using command: visdiff
